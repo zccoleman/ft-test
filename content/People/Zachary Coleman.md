@@ -3,13 +3,15 @@ cr_id: gvp-048-gyx-983
 cr_type: person
 name: Zachary Coleman
 born: 1999-10-30
-died: 
+died:
 sex: M
 spouse: "[[Kimberly Coleman]]"
 spouse_id: xlx-175-jts-209
-father: 
-mother: 
-group_name: 
+father:
+mother:
+group_name:
+media:
+  - "[[tree/Canvases/tree-preview.png]]"
 ---
 
 # Research Notes
