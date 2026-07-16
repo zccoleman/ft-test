@@ -2,5 +2,5 @@
 dg-home: true
 dg-publish: true
 ---
-First document.![[tree-preview.svg]]
-![[tree-preview.png]]![[Family Tree.canvas]]
+First document.
+![[Family Tree.canvas]]
