@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"osg011l7pt9wvaxo4db519","type":"file","file":"tree/People/Zachary Coleman.md","x":-300,"y":0,"width":250,"height":120,"color":"4"},
+		{"id":"83q3hxbg09g6k5z0bzhb62","type":"file","file":"tree/People/Kimberly Coleman.md","x":300,"y":0,"width":250,"height":120,"color":"6"}
+	],
+	"edges":[
+		{"id":"pclp9tr1osc3dm8dsv5fn","fromNode":"osg011l7pt9wvaxo4db519","fromSide":"right","toNode":"83q3hxbg09g6k5z0bzhb62","toSide":"left","toEnd":"none"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{
+			"plugin":"charted-roots",
+			"generation":{"rootCrId":"gvp-048-gyx-983","rootPersonName":"Zachary Coleman","treeType":"full","maxGenerations":0,"includeSpouses":true,"direction":"vertical","timestamp":1784159929047},
+			"layout":{"nodeWidth":200,"nodeHeight":100,"nodeSpacingX":400,"nodeSpacingY":250,"layoutType":"standard"}
+		}
+	}
+}
